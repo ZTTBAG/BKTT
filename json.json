@@ -1,0 +1,41 @@
+{
+    "code": "100000",
+    "msg": "接口调用成功!",
+    "data": [{
+        "title": "科学探究",
+        "type": 1,
+        "value": "http://btwap.adinall.com/activity_0508_englishGrading.html?isHiddenNav=1",
+        "bgcolor": "#DB181A",
+        "cover": "http://bt.adinall.com/activity/kexutanjiubanner.png",
+        "needLogin": true,
+        "desc": null,
+        "sort": 2,
+        "buttonName": null,
+        "isButton": 2,
+        "buttonLink": null
+    }, {
+        "title": "Highlights绘本",
+        "type": 1,
+        "value": "http://btwap.adinall.com/activity_0403_highlights.html?isHiddenNav=1",
+        "bgcolor": "#A7DA6C",
+        "cover": "http://bt.adinall.com/img/2020/04/03/3ddaac604563437cad1f9e1c2c7587cb.png",
+        "needLogin": false,
+        "desc": null,
+        "sort": 3,
+        "buttonName": "",
+        "isButton": 2,
+        "buttonLink": ""
+    }, {
+        "title": "邀请好友",
+        "type": 1,
+        "value": "http://btwap.adinall.com/invite_1212.html?isHiddenNav=1",
+        "bgcolor": "#65C5FF",
+        "cover": "http://bt.adinall.com/img/2020/03/13/360df40b9874485a9acf48eb8128076d.png",
+        "needLogin": true,
+        "desc": null,
+        "sort": 4,
+        "buttonName": "邀请记录",
+        "isButton": 2,
+        "buttonLink": "http://btwap.adinall.com/invitelist.html"
+    }]
+}
